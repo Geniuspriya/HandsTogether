@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1049724796036",
+    "firebase_url": "https://hands-together-4307b.firebaseio.com",
+    "project_id": "hands-together-4307b",
+    "storage_bucket": "hands-together-4307b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049724796036:android:4cd84cbebc736705",
+        "android_client_info": {
+          "package_name": "demo.example.com.handstogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049724796036-trekfjn250e52hpcfidm8i9v7ldrjfjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "demo.example.com.handstogether",
+            "certificate_hash": "b1b00d154014baffff9bf1204ea91f63dfab25ec"
+          }
+        },
+        {
+          "client_id": "1049724796036-qolldpba1ue5b08fqgjpqvur3mf730ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFm4zcKAFrwOrtFdS02epRm2TkjKVjJoQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049724796036-qolldpba1ue5b08fqgjpqvur3mf730ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
